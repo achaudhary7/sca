@@ -21,7 +21,7 @@ var client = new net.Socket();   //Create Socket
  {
  				prompt.start();
 				prompt.get(['message'], function (err, result) {  //Prompt Uer for message
-		    	connectClient(result.message);  //Call connect funtion 
+		    		connectClient(result.message);  //Call connect funtion 
 		    	
   });				
  } 
