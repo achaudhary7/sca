@@ -31,9 +31,9 @@ CLOSED
 Run client.js as- 
 
 ```
-~$ node node client.js -t 3000 -i 1000     //here -t is timeout in miliseconds and -i is interval in miliseconds 
+~$ node client.js -t 3000 -i 1000                      //here -t is timeout in miliseconds and -i is interval in miliseconds 
 
-prompt: message:  Hello       //Send data to server
+prompt: message:  Hello                                //Send data to server
 CONNECTED TO: 127.0.0.1:6969
 Remaining:2
 Remaining:1
