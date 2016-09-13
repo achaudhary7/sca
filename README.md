@@ -40,3 +40,8 @@ Remaining:1
 Remaining:0
 Connection closed
 ```
+
+#Explaination
+
+In client.js output after prompt message 'Remaining:2' is used just to show interval wait time. Consider timeout is 3000 Milisec i.e 3 Sec and interval is is 1000 milisec i.e 1 seconds, then client will send message after every 1 sec and  till 3 seco to server and server will echo the same message.      
+
