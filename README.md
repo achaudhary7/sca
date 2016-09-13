@@ -1,3 +1,18 @@
+#Requirements 
+
+1. The node 'net' Pakages.
+2. The 'Yargs' Pakages to parse optstrings.
+3. The 'prompt' Pakages to input data from user.
+ 
+#Installation
+
+```
+~$ npm install net 
+~$ npm install Yargs 
+~$ npm install prompt
+
+```
+
 # Output
 
 Run server.js file as- 
@@ -25,8 +40,3 @@ Remaining:1
 Remaining:0
 Connection closed
 ```
-
-
-
-
-
